@@ -1,0 +1,54 @@
+a {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+}
+
+.lasagna-pic {
+    width: 400px;
+    height: auto;
+}
+
+.lasagna-ingredients {
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: red;
+}
+
+#lasagna-id-first-ingredient {
+    font-weight: bold;
+    color: aquamarine;
+
+}
+
+.pasta-pic {
+    width: 600px;
+    height: auto;
+}
+
+
+
+.pasta-ingredients .pasta-sub-ingredient {
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+
+.pasta-first-ingr,
+.pasta-second-ingr {
+    color: blueviolet;
+    font-size: small;
+    font-weight: bolder;
+}
+
+.pizza.step1 {
+    color: red;
+    font-size: x-large;
+    font-weight: lighter;
+}
+
+.pizza.step2 {
+    color:blueviolet;
+    font-size: small;
+}
